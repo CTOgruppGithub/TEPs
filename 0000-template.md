@@ -2,7 +2,7 @@
 - **title**: TEP Template *(write title of TEP here)*
 - **status**: Draft
 - **type**: Meta / Core / Contract Interface *(choose one)*
-- **authors**: [Vladimir Lebedev](https://github.com/hacker-volodya) *(replace)*
+- **authors**: [TIMUR GATIATULLIN](
 - **created**: DD.MM.YYYY *(fill with current date)*
 - **replaces**: [TEP-0](https://github.com/ton-blockchain/TEPs/blob/master/0000-template.md)
 - **replaced by**: -
